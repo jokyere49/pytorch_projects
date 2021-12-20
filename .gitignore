@@ -1,0 +1,6 @@
+*data*
+*dense_data
+*drive_data
+*.idea
+*.DS_Store
+*__pycache__*
